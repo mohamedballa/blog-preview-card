@@ -16,10 +16,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+Build a responsive blog card. 
 ### The challenge
 
 Users should be able to:
@@ -44,7 +43,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
-
+First build the HTML structure:
+  a container for the whole blog card
+  b container for each segment ( there is 5 segements)
+  c link the img , write the heading and paragraph and icon.
 ### Built with
 
 - Semantic HTML5 markup
