@@ -29,7 +29,7 @@ Build a responsive blog card.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mohamedballa/blog-preview-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -37,42 +37,36 @@ First build the HTML structure:
   a container for the whole blog card
   b container for each segment ( there is 5 segements)
   c link the img , write the heading and paragraph and icon.
+  d start the styling using css.
+  e finally review, make sure that the design as close to preview as possible.
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+A good learning experience,
+in this challenge i worked with how to use multipel fonts and styles.
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+  @font-face {
+    font-family: semiBold;
+    src: url('./assets/fonts/static/Figtree-SemiBold.ttf');
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+adding dynamic UI
+```css
+  .btn:hover{
+    background:#a4892f ;
+    cursor: pointer;
 }
 ```
+i also was able to control the size of the contianer using max and min width instead of media queries.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+overall it was a good challenge
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+ 
 
 ### Continued development
 
