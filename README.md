@@ -23,7 +23,7 @@ Build a responsive blog card.
 
 ### Screenshot
 
-![Here a screenshot](screenshot.png)
+![](screenshot.png)
 
 
 ### Links
