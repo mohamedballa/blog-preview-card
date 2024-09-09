@@ -75,7 +75,6 @@ I hope to continue working on styling and dynamic UI.
 
 ## Author
 
-- Website - [MHBalla](https://www.your-site.com)
 - Frontend Mentor - [@mohamedballa](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@mhballa1](https://www.twitter.com/yourusername)
 
